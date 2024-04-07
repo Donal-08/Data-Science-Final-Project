@@ -36,7 +36,8 @@ To use this project:
 - Seaborn
 
 ## Contributors
-- [Your Name]
+- Ankita Kumari
+- Donal Loitam
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code according to the terms of the license. Contributions are welcome!
