@@ -2,6 +2,10 @@
 
 ## Introduction
 This repository contains the code and documentation for my final data science project, which focuses on predicting the outcome (win/not win) of English Premier League (EPL) football matches. The project utilizes machine learning techniques, including various classification algorithms, feature selection methods, and feature engineering.
+The repository consists of 3 main files 
+- `Scraping data and data preprocessing.ipynb` : The python notebook for scraping data from fbref website.
+- `prediction.ipynb` : The main prediction file
+- `all_matches3.csv` : The csv file consisting the scraped file
 
 ## Data Collection
 The data for this project was scraped from the [fbref.com](https://fbref.com/en/comps/9/Premier-League-Stats) website, extracting match statistics such as team performance metrics, player statistics, and match venue information for each EPL match.
