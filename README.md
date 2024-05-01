@@ -25,7 +25,8 @@ This project demonstrates the feasibility of predicting EPL match outcomes using
 To use this project:
 1. Clone the repository.
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the Jupyter notebook or Python script to execute the project pipeline.
+3. To freshly collect data using webscraping, run the jupyter notebook named "Scraping data and data preprocessing.ipynb".
+4. Run the Jupyter notebook named "prediction/ipynb" to execute the project pipeline.
 
 ## Dependencies
 - Python 3
